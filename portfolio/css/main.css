@@ -1,0 +1,37 @@
+
+
+h1 {
+  font-family: Megrim,sans-serif;
+  color: #dde9ef;
+}
+
+p {
+  color: #0b6288;
+  font-family: Alegreya, serif;
+}
+img {
+  width: 75%;
+  display: block;x
+}
+
+@media only screen and (min-width: 42em) {
+
+  .banner {
+    position: relative;
+    overflow: hidden;
+    max-height: 500px;
+
+  }
+
+  .text {
+    max-width: 25em;
+    width: 100%;
+    text-align: center;
+  }
+
+  .btn {
+    position: absolute;
+    bottom: 0%;
+    left: 60%;
+  }
+}
