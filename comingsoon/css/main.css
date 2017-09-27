@@ -1,0 +1,24 @@
+
+
+h1 {
+  font-family: Megrim,sans-serif;
+  color: #214160;
+}
+
+p {
+  font-family: Alegreya, serif;
+}
+img {
+  width: 100%;
+  display: block;
+}
+
+@media only screen and (min-width: 42em) {
+
+  .text {
+    max-width: 25em;
+    width: 100%;
+    text-align: center;
+  }
+
+}
