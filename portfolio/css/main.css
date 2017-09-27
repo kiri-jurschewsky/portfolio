@@ -16,22 +16,10 @@ img {
 
 @media only screen and (min-width: 42em) {
 
-  .banner {
-    position: relative;
-    overflow: hidden;
-    max-height: 500px;
-
-  }
-
   .text {
     max-width: 25em;
     width: 100%;
     text-align: center;
   }
 
-  .btn {
-    position: absolute;
-    bottom: 0%;
-    left: 60%;
-  }
 }
